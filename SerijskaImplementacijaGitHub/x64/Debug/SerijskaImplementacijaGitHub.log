@@ -1,0 +1,3 @@
+﻿  SerijskaImplementacijaGitHub.cpp
+C:\Users\Hp\Downloads\Convex-Hull-master\serial\SerijskaImplementacijaGitHub.cpp(196,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SerijskaImplementacijaGitHub.vcxproj -> C:\Users\Hp\Desktop\PRS projekat\ParallelQHullGithub\x64\Debug\SerijskaImplementacijaGitHub.exe
